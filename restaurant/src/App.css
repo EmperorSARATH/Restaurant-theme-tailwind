@@ -1,0 +1,114 @@
+body{
+margin:0px;
+padding:0px;
+
+}
+
+.Body{
+  height:100vh;
+}
+.Header-Main{
+  background-image: linear-gradient(#E76F0D, black);
+}
+.Welcome{
+   background-color: rgba(0,0,0,0.8);
+  z-index: 10;
+    opacity:0.65;
+   box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 4px;
+  transition: all .3s ease-in-out;
+  }
+
+  .Welcome:hover{
+     box-shadow: rgba(0, 0, 0, 0.32) 0px 19px 43px;
+  transform: translate3d(0px, -2px, 0px);
+  outline: 2px white solid;
+  
+
+  }
+
+  .Burger{
+    border: 2px solid black;
+     box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 4px;
+  transition: all .3s ease-in-out;
+  }
+  .Burger:hover{
+        box-shadow: rgba(0, 0, 0, 0.32) 0px 19px 43px;
+  transform: translate3d(0px, -2px, 0px);
+
+  }
+
+
+  .Pizza{
+    border: 2px solid black;
+      box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 4px;
+  transition: all .3s ease-in-out;
+
+  }
+.Pizza:hover{
+   box-shadow: rgba(0, 0, 0, 0.32) 0px 19px 43px;
+  transform: translate3d(0px, -2px, 0px);
+
+}
+
+  .Biriyani{
+    border: 2px solid black;
+     box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 4px;
+  transition: all .3s ease-in-out;
+  }
+  .Biriyani:hover{
+     box-shadow: rgba(0, 0, 0, 0.32) 0px 19px 43px;
+  transform: translate3d(0px, -2px, 0px);
+
+  }
+
+   .Juice{
+    border: 2px solid black;
+     box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 4px;
+  transition: all .3s ease-in-out;
+  }
+  .Juice:hover{
+     box-shadow: rgba(0, 0, 0, 0.32) 0px 19px 43px;
+  transform: translate3d(0px, -2px, 0px);
+
+  }
+
+  .chef1{
+     border: 2px solid black;
+     box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 4px;
+  transition: all .3s ease-in-out;
+  
+  }
+
+  .chef1:hover{
+      box-shadow: rgba(0, 0, 0, 0.32) 0px 19px 43px;
+  transform: translate3d(0px, -2px, 0px);
+
+  }
+
+  .chef2{
+     border: 2px solid black;
+     box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 4px;
+  transition: all .3s ease-in-out;
+  }
+  .chef2:hover{
+   box-shadow: rgba(0, 0, 0, 0.32) 0px 19px 43px;
+  transform: translate3d(0px, -2px, 0px);
+
+  }
+
+  .chef3{
+    border: 2px solid black;
+     box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 4px;
+  transition: all .3s ease-in-out;
+
+  }
+
+  .chef3:hover{
+     box-shadow: rgba(0, 0, 0, 0.32) 0px 19px 43px;
+  transform: translate3d(0px, -2px, 0px);
+
+  }
+
+  .Description{
+    border: 2px solid black;
+  }
